@@ -1,4 +1,4 @@
-![Old Salt](/../old-salt.png)
+![Old Salt](/../repos/old-salt.png)
 # **odin-recipies**
 
 ## **Recipe Assignment**
