@@ -10,11 +10,15 @@ I'm using recipes from https://www.allrecipes.com/ as recommended in the lesson 
 This was my very first assignment with the Odin Project curriculum; I learned how to fill out the HTML boilerplate, create directory and files, navigate through the terminal, input headers, paragraphs, images, and links. I created ordered and unordered lists for my recipes.
 I tried to produce clean code so it is readable and understandable to any viewer. Also, I wanted to center my images so I did some google, google, google and came up with imbedded css style to center imgages and I also created image thumbnails for the index page.
 
-** I really liked the readme file of Stefan T and have adapted it, thank you, hope you're flattered. j
+ **I really liked the readme file of Stefan T and have adapted it, thank you, hope you're flattered. j**
 
 OMG! Just realized I've been mispelling "recipes"!!! EVERYWHERE! Not sure how extensive to fix. I'll get on that right awaaaaaay, yeah right
 
 ## **Running comentary ongoing dev (newest on top):**
+
+I plan to update my public profile and public README files soon, just as soon as I have something to say. So far in my noob innocence I'm satified I can move forward from here. I welcome suggestions, criticisms, recommendations, advice, counsel, hints, tips, clues and ideas. Please no trolls.
+
+Yeah! I published and added my humble effort to the Solutions Foundations page and have tested it on my iPhone 12ProMax, and it looks ok. Slight spacing problem I may go back and work on later. I think I know which style padding options to tweek.
 
 Ok dinner time, it's time to make another Margarita which should go well with enchiladas: <br>
 https://www.allrecipes.com/recipe/229123/best-beef-enchiladas/  <br>
