@@ -1,4 +1,4 @@
-![Old Salt](/repos/old-salt.png)
+![Old Salt](old-salt.png)
 # **odin-recipies**
 
 ## **Recipe Assignment**
@@ -30,4 +30,3 @@ I got the second recipe added that's just like the french toast recipe and start
 First there's breakfast. My fav is French Toast, nothing fancy. I'm using: <br>
 https://www.allrecipes.com/recipe/7016/french-toast-i/ <br>
 I put together an index page with clickable text for the recipe name and borrowed a couple ideas for forward/backward navigation. Found how to style the images to center them and placed text on img with textedit.
-:+1:
