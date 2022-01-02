@@ -20,6 +20,8 @@ I plan to update my public profile and public README files soon, just as soon as
 
 Yeah! I published and added my humble effort to the Solutions Foundations page and have tested it on my iPhone 12ProMax, and it looks ok. Slight spacing problem I may go back and work on later. I think I know which style padding options to tweek.
 
+NOTE: this is a LIFO list, so start at the bottom if you want the begining.
+
 Ok dinner time, it's time to make another Margarita which should go well with enchiladas: <br>
 https://www.allrecipes.com/recipe/229123/best-beef-enchiladas/  <br>
 Got those nutrition facts in all the recipe pages. I'll go back and add more comments in html files cause I'm bad at keeping up with them. Thinking about where to put recipe attributions on recipe pages. If I don't quit thinking up new tweeks I'll never finish.
